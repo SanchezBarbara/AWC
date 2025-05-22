@@ -1,7 +1,6 @@
 ## 📊 Visualización del Rendimiento Financiero de Adventure Works con Power BI
 Autora: Barbara S. Sanchez
 Email: barbysanchezz.bs@gmail.com
-Cohorte: FT-13
 Fecha de entrega: 24/04/2025
 
 ### 🧠 Resumen del Proyecto
